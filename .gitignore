@@ -1,0 +1,5 @@
+# Ignore the following folders
+data/
+results/
+
+NSL-KDD.zip
