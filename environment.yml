@@ -1,0 +1,13 @@
+name: xai_tutorial_comst
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - adversarial-robustness-toolbox
+  - tensorflow
+  - shap
+  - pandas
+  - lime
+  - jupyter
+prefix: C:\Users\thuli\anaconda3\envs\xai_tutorial_comst
