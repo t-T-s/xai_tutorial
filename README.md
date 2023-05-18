@@ -1,4 +1,4 @@
-# xai_tutorial
+# Tutorial on XAI
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/t-T-s/xai_tutorial/main)
 
